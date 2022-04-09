@@ -22,13 +22,9 @@ Let's look at the data to be processed as a whole
 │   └── run.sh
 └── src		# A software installation package that may be used. If the software has been installed on the server, you do not need to install it again.
     ├── fastqc_v0.11.9.zip
-    ├── hisat2-2.2.1-Linux_x86_64.zip
-    ├── hisat2-2.2.1-OSX_x86_64.zip
     ├── kallisto_linux-v0.46.1.tar.gz
-    ├── kallisto_mac-v0.46.1.tar.gz
     ├── samtools-1.14.tar.bz2
     ├── stringtie-2.2.0.Linux_x86_64.tar.gz
-    └── stringtie-2.2.0.OSX_x86_64.tar.gz
 ```
 --------
 ## 1.hisat2 builds a reference genome index
